@@ -1,4 +1,4 @@
-package com.sub.patterns.interceptingFilter;
+package com.sub.patterns.presentation.interceptingFilter;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.sub.patterns.interceptingFilter;
+package com.sub.patterns.presentation.interceptingFilter;
 
 public class AuthenticationFilter implements Filter {
 
